@@ -18,7 +18,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
-
+	//test 
 
 public class log extends JFrame implements ActionListener{
 
